@@ -238,9 +238,9 @@ inorganic_tb_dnd_creaturestuff
 
 [INORGANIC:TB_DND_ANTIEVIL_BOLT]
 	[USE_MATERIAL_TEMPLATE:SOIL_TEMPLATE]
-	[STATE_NAME_ADJ:ALL_SOLID:magic_missile]
-	[STATE_NAME_ADJ:LIQUID:magic missile]
-	[STATE_NAME_ADJ:GAS:magic missile]
+	[STATE_NAME_ADJ:ALL_SOLID:radiant missile]
+	[STATE_NAME_ADJ:LIQUID:radiant missile]
+	[STATE_NAME_ADJ:GAS:radiant missile]
 	[DISPLAY_COLOR:7:0:1]
 	[SOLID_DENSITY:4500]
 	[LIQUID_DENSITY:4000]
