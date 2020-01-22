@@ -4,7 +4,7 @@ creature_tb_dnd_monstrosity
 
 Categories can be inconsistent across editions, so this also includes most of the ones in the Magical Animal category of older editions.
 
-As a further note, I consider DF's giant creatures to be equal to D&D's Dire animals. This means that some of these creatures will have a Dire variant using a tweaked version of DF's giant creature variant..
+As a further note, I consider DF's giant creatures to be equal to D&D's Dire animals. This means that some of these creatures will have a Dire variant using a tweaked version of DF's giant creature variant.
 
 [CREATURE:TB_DND_ANKHEG]
 	[DESCRIPTION:These large insects are natural burrowers who prefer to stick close to the surface in search of prey. Aside from their large size and sharp legs, they also can squirt acid to incapacitate more dangerous creatures.]

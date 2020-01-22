@@ -4,8 +4,8 @@ Added Air Elemental creature.
 Added Earth Elemental creature.
 Added Fire Elemental creature.
 Added Water Elemental creature.
-!!!!Added Empyrean creature.
-!!!!Added Fallen Empyrean megabeast.
+Added Empyrean creature.
+Added Fallen Empyrean megabeast.
 !!!!Added Ettercap creature.
 !!!!Added Ettin creature.
 !!!!Added Faerie Dragon creature.
@@ -187,3 +187,82 @@ Added Water Elemental creature.
 !!!!Added Saber-Toothed Tiger creature.
 !!!!Added Winter Wolf creature.
 !!!!Added Worg creature.
+!!!!Added Genasi civilization.
+!!!!Added Goliath civilization.
+!!!!Added Aasimar civilization.
+!!!!Added Fallen Aasimar creature.
+!!!!Added Firbolg civilization.
+!!!!Added Tabaxi civilization.
+!!!!Added Triton creature.
+!!!!Added Banderhob creature.
+!!!!Added Banderhob bogeyman.
+!!!!Added Barghest creature.
+!!!!Added Death Kiss creature.
+!!!!Added Gauth creature.
+!!!!Added Gazer creature.
+!!!!Added Bodak creature.
+!!!!Added Boggle creature.
+!!!!Added Catoblepas creature.
+!!!!Added Cave Fisher creature.
+!!!!Added Chitine creature.
+!!!!Added Chitine civilization.
+!!!!Added Cranium Rat vermin
+!!!!Added Cranium Rat Swarm creature.
+!!!!Added Darkling creature.
+!!!!Added Darkling civilization.
+!!!!Added Deep Scion creature.
+!!!!Added Deep Scion curse.
+!!!!Added Babau creature.
+!!!!Added Babau caste to Tanar'ri civilization.
+!!!!Added Maw Demon creature.
+!!!!Added Maw Demon caste to Tanar'ri civilization.
+!!!!Added Shoosuva creature.
+!!!!Added Devourer creature.
+!!!!Added more dinosaurs from Primal.
+!!!!Added Draegloth creature.
+!!!!Added Firenewt civilization.
+!!!!Added Giant Strider creature.
+!!!!Added Flail Snail creature.
+!!!!Added Froghemoth creature.
+!!!!Added Girallon creature.
+!!!!Added Flind caste to Gnoll civilization (remove this entry when added, just a reminder!)
+!!!!Added Gnoll Witherling creature.
+!!!!Added Grung civilization.
+!!!!Added Guard Drake creature. (five variants)
+!!!!Added Annis Hag creature.
+!!!!Added Bheur Hag creature.
+!!!!Added Ki-rin creature.
+!!!!Added Korred creature.
+!!!!Added Leucrotta creature.
+!!!!Added Meenlock creature.
+!!!!Added Alhoon semimegabeast.
+!!!!Added Illithilich megabeast.
+!!!!Added Elder Brain caste to Mind Flayer civilization (reminder).
+!!!!Added Ulitharid caste to Mind Flayer civ (reminder).
+!!!!Added Mindwitness creature.
+!!!!Added Morkoth creature.
+!!!!Added Neogi civilization.
+!!!!Added Neothelid creature.
+!!!!Added Nilbog caste to Goblin civ (reminder).
+!!!!Added Tanarukk caste to Orc civ (reminder)
+!!!!Added Quickling vermin.
+!!!!Added Redcap creature.
+!!!!Added Sea Spawn creature.
+!!!!Added Shadow Mastiff creature.
+!!!!Added Slithering Tracker creature.
+!!!!Added Spawn of Kyuss creature.
+!!!!Added Tlincalli creature.
+!!!!Added Trapper creature.
+!!!!Added Vargouille creature.
+!!!!Added Vegepygmy creature.
+!!!!Added Thorny creature.
+!!!!Added Wood Woad creature.
+!!!!Added Xvart civilization.
+!!!!Added Yeth Hound creature.
+!!!!Added Anathema caste to Yuan-ti civ (reminder).
+!!!!Added Yuan-ti Broodguard creature.
+!!!!Added Auroch creature.
+!!!!Added Rothé creature.
+!!!!Added Deep Rothé creature.
+!!!!Added Rot Grub vermin.
+!!!!Added Rot Grub Swarm creature.
