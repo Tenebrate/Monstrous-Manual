@@ -1,0 +1,33 @@
+-------------------------
+  HOSTILE MONSTROSITIES
+-------------------------
+
+Ankheg: A large insectoid ambushing predator, they can spray acid at enemies. They can be found in temperate grasslands, shrublands, savannas, forests and in the very first cavern layer.
+
+Dire Ankheg: A giant variant of the Ankheg that appears more rarely in savage areas.
+
+Basilisk: An eight-legged monster that is somewhat bigger than your average human. They are found infrequently in any temperate or tropical forest, grassland, savanna, shrubland, desert, mountains or in any of the three cavern layers. While they have a poisonous bite, their main threat is their capacity to turn creatures to stone. Basilisks are exotic pets.
+
+Dire Basilisk: A giant variant of the Basilisk that appears more rarely in savage areas.
+
+Behir: An enourmous serpentine monster capable of both capable of breathing lightning, and also walking on walls. They appear rarely on mountains or underground. They are intelligent, but also quite hostile.
+
+Bulette: A great monster somewhat shaped like its namesake. Bulettes appear infrequently in any temperate biome, are very fast, can ambush and also is resistant to damage.
+
+Dire Bulette: A giant variant of the Bulette that appears more rarely in savage areas.
+
+Carrion Crawler: These grub-like creatures are scavengers who can walk on walls and has a paralytic poison applied through their tentacles. While they are prone to ambushing, they will not actively seek out prey. They can appear in any wetland as well as in the first underground layer. Carrion Crawlers are also considered to be aberrations and are thus weak to Byeshk.
+
+Dire Carrion Crawler: A giant variant of the Carrion Crawler that appears more rarely in savage areas.
+
+Chimera: These three-headed monsters are twisted creatures with the features of lions, goats and dragons. They feel no fear and can be found infrequently in any temperate grassland, shrubland or savanna that is also either evil or savage. They have five different caste types, each with a different breath attack: fire, cold, acid, poisonous gas, and lightning.
+
+Cockatrice: A chicken-like monster, found in savage temperate grasslands, shrublands, and savannas. They feel no fear and have a chance to petrify any creature that they wound with their beak.
+
+Darkmantle: A small octopus-like monster whose craggy outer layer provides some damage reduction. Darkmantles are ambushing predators, and can generate an aura of magical darkness periodically in order to disorient their prey. They can be found underground.
+
+Displacer Beast: A malicious predator of fey origins, this eight-legged feline possesses two clawed tentacles on its back and hides its true location by means of illusion. This displacement makes them take only two thirds of all damage they receive. They are exotic pets and can be found in both evil and savage forests.
+
+Doppelganger: This shapeshifting humanoid monster can change its appearance to match that of any intelligent creature and are very agile. They are both mischievous and can steal items. They can appear rarely in any biome or in the first cavern layer. They can also be played as adventurers.
+
+Drider: Created when a drow fails a trial set by Lolth the Spider Queen, they are transformed by the angered godess into a monstrous fusion of drow and giant spider as a living reminder of Lolth's power and displeasure to the rest of the drow. They can freely walk on walls, ignore webs and have a poisonous bite. They can be found in any of the cavern layers infrequently and as minions of drow civilizations.

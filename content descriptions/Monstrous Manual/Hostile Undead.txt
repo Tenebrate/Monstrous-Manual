@@ -1,0 +1,13 @@
+------------------
+  HOSTILE UNDEAD
+------------------
+
+Note: All undead take double damage from Silver.
+
+Banshee: The cursed ghost of a dead elf, banshees are rarely found in any evil forests. They are opposed to life, capable of flight and can apply a necrosis effect on their punches. Furthermore, they have access to two interactions, one passive aura that causes fear on creatures who can feel it, and another, with a large cooldown, that lets them unleash a pain-and-necrosis-causing wail.
+
+Death Knight: A fallen paladin cursed with undead, the death knights is a formidable foe. Not only do they have the many resistances of undead, they are also skilled fighters and come with their own armour and sword. As if that wasn't enough, death knights have a series of magical powers: they can boost the skill rolls of all undead (NOT_LIVING) near them; they can remove the capacity of fear from an enemy, causing them to recklessly charge into danger; they can deal heat damage at melee range; they can slow down an enemy; they can throw a fireball; they can throw a series of projectiles that cause both necrotic (necrosis) and electrical (pain, paralysis, blistering, dizziness) damage; and, finally, they have a chance to revive upon being killed. They can appear in any evil surface biome, but only very rarely. Death Knights can also be played as adventurers, but in that case they won't be Opposed to Life nor have a reviving ability.
+
+Death Tyrant: The closest thing to a beholder lich, these skeletal beholders lose all their vulnerable organs and blood while retaining all standard beholder eye-beams. The nullifying cone interaction, however, is replaced with the negative cone interaction. It can either reduce the toughness, recuperation and disease resistance of living creatures, or raise corpses. Death Tyrants also count as aberrations.
+
+Shadow Dracolich: These undead horrors were once dragons who rejected their own mortality and enacted a terrible ritual in order to become the draconic equivalent of a lich. All dracoliches have an aura of fear around them and are immune to necrotic damage. These dracoliches can breathe a necrotic blast and are found extremely rarely in the deepest caverns.

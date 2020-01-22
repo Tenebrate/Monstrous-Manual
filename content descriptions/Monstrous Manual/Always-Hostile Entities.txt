@@ -1,0 +1,47 @@
+---------------------------
+  ALWAYS-HOSTILE ENTITIES
+---------------------------
+
+Baatezu: The denizens of the Hells, more commonly known as 'devils', they have a rigid hierarchy and come in many castes. They are inimical to nearly everything and are all fiends and immune to fire. Their castes are:
+	
+	Barbed Devil: These humanoid devils are covered in sharp barbs, spines and hooks and are expert sentries. All natural attacks made by barbed devils are edged due to their namesake barbs. They can occasionally throw a fireball and can also attempt to summon another barbed devil at 30% chance.
+	
+	Bearded Devil: The shocktroopers of the Hells, bearded devils get their name from their tendril-like "beards" in their lower face. Said beard can be used to perform a special attack that can apply a venom that reduces the recuperation stat of the victim to 0. Additionally, they can, like many fiends, summon other bearded devils at 30% chance.
+	
+	Bone Devil: These gaunt devils are the taskmasters of hell, and have the task of keeping their lessers in line. They are quite mobile thanks to their wings, and also possess a venomous stinger that can inflict necrosis. Further, like many fiends, they can summon reinforcements; in this case, Spined Devils at a 30% chance.
+	
+	Chain Devils: The torturers of the Hells, Chain Devils appear as bald humanoids covered in chains that move of their own volition. They can attack with these chains as if they were whips for great effect. They can also stare at a creature in order to induce magical fear in them. Unlike many other fiends, they cannot summon other devils. Chain Devils cannot equip any items.
+	
+	Erinyes: Appearing much like an angel, these striking devils are peerless and beautiful avengers who deliver their masters' wrath on those who defy them. They are fliers and can also attempt to summon a spined devil at 50% chance.
+	
+	Horned Devil: Acting as the aerial infantry of the Hells, Horned Devils are rather lazy for how effective they are at combat. Standing as big as an ogre, and far stronger, they are still not to be trifled with. They possess a wide range of natural attacks, which includes both their horns and their tail. The tail is particularly dangerous for it can inflict a necrosis-causing infernal wound. All horned devils are capable of throwing fireballs and can try to summon another horned devil at a 30% chance.
+	
+	Ice Devil: These insectoid demons are the field commanders of the hells. Strong in both mind and body, they are more than strong enough to keep their underlings in line. All of their attacks cause frost damage in addition to normal damage. They are also immune to frost. Finally, they can try to summon other ice devils at 60% chance.
+	
+	Lemure: Wretched beings and the weakest of all devils, the lemures are spawned from the souls of evil creatures condmened to the Hells. Their feeble, blobby forms are hardly imposing and they instead opt to swarm other creatures. Their only notable characteristic is that they can be restored to life when slain unless they have been struck down already recently.
+	
+	Pit Fiend: Below only the Archdevils themselves, Pit Fiends are the great generals and nobles of the Hells. They are powerful and massive and can fly in order to better position themselves. They are immune to fire or magma. They have an innate fear aura that terrifies and intimidates all those around it. They can also throw fireballs and jets of fire, slow down non-intelligent creatures and possess a poisonous bite that causes both necrosis and prevents any form of healing. Finally, they can also summon Bearded Devils from corpses at 100% chance of success.
+	
+	Spined Devil: These small flying devils are the spies and aerial harassers of the Hells. They are small winged humanoids covered in spines that they can launch at their foes.
+
+Tanar'ri: The most numerous race of demons, all of their sub-types have some sort of humanoid feature to them. They come in many castes and are inimical to nearly everything. Tanar'ri are all Fiends. Their castes are:
+	
+	Balor: One of the greatest non-unique demons, the balor is a massive and powerful combatant who can augment his strength with mobility in the form of flight. Balors are immune to fire or magma, and also immune to electrical damage. They can equip any weapons they come across and their high body temperature can cause burns in those they grapple with. Balors also have an innate fire aura that causes small, but mounting, ammounts of damage in creatures adjacent to one. Furthermore, they have an extra interaction in the form of a summoning spell (requiring a creature's corpse) that has 50% chance to spawn a Vrock. When killed, the Balor explodes in a fiery blast.
+	
+	Barlgura: These massive orangutan-like demons represent the savagery and fury of the Abyss. Barlguras are prone to rage and possess a few interaction: they can slow down enemies, turn invisible in order to escape, or try to summon another barlgura, from a corpse, at 30% chance.
+	
+	Chasme: Appearing as a horrible centauric fly, these demons are sadists and love to torture and torment. They are fliers and can also walk freely on walls. Chasmes have a special toxin that they can inject with their proboscis that causes localized necrosis and lowers toughness. They also possess a constant aura-like interaction that induces drowsiness on all who hear it. Finally, Chasmes can also destroy a corpse to attempt to summon, at 30% chance, another Chasme.
+	
+	Dretch: One of the lowest and weakest types of demons, dretches make up for their weak physique with numbers. Dretches can produce a small cloud of gas that causes nausea and middling necrosis.
+	
+	Glabrezu: These tall demons are roughly humanoid, but possess two sets of arms: one of them human-like, but smaller compared to the demon's size, and the other a pair of powerful and menacing pincers. Glabrezus are natural negotiators, but that doesn't mean they cannot hold their own in close combat. They have a selection of spells they can cast: Darkness, that lowers skill rolls on several enemies; Confusion, that causes erratic behaviour; Power Word Stun, which stuns an enemy; and finally they are able to summon a Vrock using a nearby corpse at a 30% chance.
+	
+	Hezrou: These brutish frog-like demons are the closest the Abyss has to a standard soldier. Though physically imposing, hezrous are mentally weak and relatively easy to bully. They possess a horrible stench that is potent enough to poison those around them, and can summon a dretch from a corpse at 30% success chance.
+	
+	Manes: The weakest and most wretched of demons, manes are "born" from the souls of evil creatures that were sent to the Abyss after their death. Their new form is hardly imposing, however, being small and feeble, and only by swarming an enemy can they hope to stand any chance.
+	
+	Nalfeshnee: These brutish demons look like crosses between apes and boars, possessing tiny, but functional, wings. Despite appearing crude and savage, however, nalfeshnees are exceptionally intelligent. They are capable of emitting fear-inducing lights on command, and can also summon vrocks from corpses at 50% chance of success.
+	
+	Succubus/Incubus: These alluring humanoid demons live to tempt others into damnation in the hopes of claiming their souls. They possess two magical powers: they are able to charm a creature into temporarily becoming hostile to all, and they can perform a draining kiss attack that reduces the victim's toughness and deals damage through necrosis.
+	
+	Vrock: Savage and vicious, the vulture-like vrock might be a lesser demon but that doesn't reduce the threat one can pose. Aside from attacking with their beak and talons, vrocks can also screech to stun nearby enemies, release a cloud of toxic spores, and attempt to summon a dretch out of a corpse (at 30% chance).

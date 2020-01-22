@@ -1,0 +1,15 @@
+--------------------------
+  NON-HOSTILE CELESTIALS
+--------------------------
+
+Angels: With the appearance winged humanoids, they have three different castes: the Celestial Deva, the Planetar and the Solar. All angel castes have a Healing Touch that can increase recuperation in other creatures for a time and are at peace with wildlife. Angels can join civilizations and can be played as adventurers. They can rarely appear in any Good region.
+
+	Celestial Deva: They do not have any special interactions aside from the healing touch, but have far better stats than a human.
+	
+	Planetar: They are larger than Celestial Devas, have even better stats and can use the Flame Strike (a fireball) and Blade Barrier (damage reduction on self) interactions. 
+	
+	Solar: Is even larger, has excellent stats, and has all of the Planetar's interactions as well as Searing Burst (launches a projectile that deals heavy debuffs to fiends and undead).
+
+Couatl: These great winged serpents are divine creatures of great wisdom and insight. They are benign and will avoid confrontation when possible. They are found in any good tropical forest, desert, or grassland, though rather infrequently. Couatls have a paralytic poison, plus three interactions: Lesser Restoration (increases recuperation), Greater Restoration (greatly increases recuperation), and Sanctuary Shield (reduces damage taken).
+
+Empyreans: The celestial children of the good gods, empyreans are beautiful, gigantic and self-assured. By their very nature their emotions are much more volatile and stronger than those of mortals, which can cause them to overreact. They can be very rarely found alone in any good biome. They possess three spells: Restoration, which boosts recuperation; Fire Storm, which launches multiple fireballs; and Earthquake, which causes pain, necrosis and slows speed on multiple targets. They can be played as adventurers.

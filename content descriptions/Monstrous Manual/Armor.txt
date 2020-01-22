@@ -1,0 +1,5 @@
+---------
+  ARMOR
+---------
+
+Splint Armor: Armour made out of vertical bars of metal. Offers average protection.

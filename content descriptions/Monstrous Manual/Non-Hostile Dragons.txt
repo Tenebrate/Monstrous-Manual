@@ -1,0 +1,15 @@
+-----------------------
+  NON-HOSTILE DRAGONS
+-----------------------
+
+Metallic Dragons: A subset of true dragons, metallic dragons tend to be just and righteous where chromatics are ruthless and cruel. They are usually friendly to most they encounter and come in a variety of subtypes:
+	
+	Brass: Brass dragons are found in good deserts. They can breathe both fire and a sleep gas, and are immune to fire.
+	
+	Bronze: Bronze dragons are amphibious and found in good saltwater wetlands. They can breathe both lightning and a repulsion breath, and are immune to electricity.
+	
+	Copper: Copper dragons are found in good grasslands and shrublands. They can breathe both acid and a slowing gas, and are immune to acid.
+	
+	Gold: Gold dragons are found in good forests and grasslands. They can breathe both fire and a weakening gas, and are immune to fire.
+	
+	Silver: Silver dragons are found in good mountains. They can breathe both frost and a paralyzing gas, and are immune to cold.

@@ -1,0 +1,7 @@
+------------
+  MINERALS
+------------
+
+Byeshk: A heavy, dense metal found in metamorphic layers, it has the special property of dealing extra damage to aberrations.
+
+Cold Iron: Sometimes found in clusters inside iron veins, cold iron is, statistically, identical to regular iron. What makes it unique, however, is that it deals extra damage to fiends and fey creatures.

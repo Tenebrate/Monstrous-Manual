@@ -1,0 +1,9 @@
+----------------------
+  NON-HOSTILE BEASTS
+----------------------
+
+Ankylosaurus: Covered in thick plating, the plant-eating ankylosaurus is usually passive though it can defend against predators with its clubbed tail. They can be found in savage forests, grasslands and wetlands. They can be easily tamed and made into mounts.
+
+Pteranodon: A flying reptile with a beak instead of teeth, they feed primarily on aquatic creatures by diving. They can be found in savage oceans, lakes and rivers. They can be tamed as pets.
+
+Triceratops: A great quadrupedal dinosaur with a bone frill on its head and three horns. They can be found in savage forests, grasslands and wetlands. They can be trained as pets and mounts.

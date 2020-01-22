@@ -1,0 +1,15 @@
+---------------------
+  MEGABEAST DRAGONS
+---------------------
+
+Chromatic Dragons: A subset of the true dragons, chromatic dragons are almost-universally evil and cruel. They seek to ruin or dominate all around them even as their build their hoards. They come in a variety of colours, described below:
+	
+	Black: Black dragons are amphibious and found in wetlands. They are capable of spitting acid, and are immune to it.
+	
+	Blue: Blue dragons are found in deserts. They are capable of breathing lightning, and are immune to it.
+	
+	Green: Green dragons are found in forests. They are capable of breathing poison, and are immune to it.
+	
+	Red: Red dragons are found in mountains. They are capable of breathing fire, and are immune to it.
+	
+	White: White dragons are found in glaciers, tundras and taigas. They are capable of breathing frost and are immune to it.

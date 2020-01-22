@@ -1,0 +1,31 @@
+--------------------
+  MEGABEAST UNDEAD
+--------------------
+
+Note: All undead take double damage from Silver.
+
+Demilich: This floating skull is actually the remnant of a powerful lich. Despite its apparently diminished form, demiliches are still exceptionally deadly. Besides being very hard to hit and being able to fly, demiliches have acess to a series of dangerous interactions. The most dangerous of them is their howl, that has a chance of causing necrotic damage to nervous tissue and causing fear on those who manage to resist the first effect. It can also drain life, causing small but cumulative necrotic damage on the target. It is also capable of draining the energy of creatures, which has a chance to halve the target's toughness stat. Another interaction is its ability to release blinding dust, reducing skill rolls. Finally, its last interaction is to curse a single opponent, that halves their skill rolls for its durations. Demiliches are megabeasts that can be found inside shrines.
+
+Dracolich: These undead horrors were once dragons who rejected their own mortality and enacted a terrible ritual in order to become the draconic equivalent of a lich. All dracoliches have an aura of fear around them and are immune to necrotic damage. Dracoliches are megabeasts that inhabit burrows. They also keep aspects of their former selves as detailed below:
+	
+	Black Dracolich: These dracoliches can breathe acid, are immune to it, and are found in swamps.
+	
+	Blue Dracolich: These dracoliches can breathe lightning, are immune to it, and are found in deserts.
+	
+	Brass Dracolich: These dracoliches can breathe both fire and a sleeping gas, and are immune to fire. They are found in deserts.
+	
+	Bronze Dracolich: These dracoliches can breathe both lightning and a wave of force, are immune to lightning and can be found in saltwater wetlands.
+	
+	Copper Dracolich: These dracoliches can breathe both acid and a slowing gas, are immune to acid and can be found in grasslands and shrublands.
+	
+	Green Dracolich: These dracoliches can breathe poisonous gas and can be found in forests.
+	
+	Gold Dracolich: These dracoliches can breathe both fire and a weakening gas, are immune to fire and can be found in forests and grasslands.
+	
+	Red Dracolich: These dracoliches can breathe fire, are immune to fire and can be found in mountains.
+	
+	Silver Dracolich: These dracoliches can breathe both cold and a paralyzing gas, are immune to cold and can be found in mountains.
+	
+	White Dracolich: These dracoliches can breathe cold, are immune to cold and can be found in glaciers, tundras and taigas.
+	
+	

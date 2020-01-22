@@ -1,0 +1,97 @@
+--------------------
+  WEAPONS AND AMMO
+--------------------
+
+Bastard Sword: A large sword that acts as a halfway point between a longsword and a two-handed sword. Uses sword skill.
+
+Club: A simple blunt weapon, notable only for its ability for somewhat faster strikes. Uses mace skill.
+
+Composite Bow: A more expensive, but somewhat better variant of the bow. Uses arrows for ammo. Uses bow skill for ranged attacks and sword for melee.
+
+Composite Longbow: A more expensive, but somewhat better variant of the longbow. Uses arrows for ammo. Uses bow skill for ranged attacks and sword for melee.
+
+Dire Flail: A large double-ended flail with strong but slow attacks. Uses mace skill.
+
+Double Axe: A large, powerful weapon with strong, but slow attacks. Uses axe skill.
+
+Falchion: A two-handed sword with better slashing attacks. Uses sword skill.
+
+Glaive: A large slashing polearm with strong attacks with long recovery times. Uses pike skill.
+
+Greatclub: A much larger version of the club, stronger but slower. Uses mace skill.
+
+Guisarme: A slashing polearm with balanced attack times. Uses pike skill.
+
+Handaxe: A smaller, lighter variant of a regular battle axe. Uses axe skill.
+
+Hand Crossbow: A smaller, lighter variant of the regular crossbow for cheaper production. Uses bolts for ammo. Uses crossbow skill for ranged attacks and hammer for melee.
+
+Heavy Crossbow: A larger, more powerful variant of the regular crossbow that is offset by its higher material cost. Uses bolts for ammo. Uses crossbow skill for ranged attacks and hammer for melee.
+
+Heavy Flail: A larger, stronger version of a regular flail. Uses mace skill.
+
+Hooked Hammer: A small weapon with a hammer head on one end and a hook on the other. uses the hammer skill.
+
+Kama: A small slashing bladed weapon with slashing attacks. Uses sword skill.
+
+Kukri: A large dagger weapon focusing only on slashing attacks. Uses dagger skill.
+
+Lance: This large spear can only be used by creatures as big as, or bigger than, a human. It possess a strong piercing attack. Uses spear skill.
+
+Light Hammer: A smaller, lighter variant of the regular war hammer that can hit slightly faster. Uses hammer skill.
+
+Longbow: A very strong ranged weapon that can only be used by larger creatures. Uses arrows for ammo. Uses bow skill for ranged attacks and sword for melee.
+
+Longspear: A larger and stronger version of the regular spear. Uses the spear skill.
+
+Nunchaku: A small blunt weapon with fast attacks. Uses the mace skill.
+
+Punching Dagger: A small fast weapon with both slashing and piercing attacks. Uses dagger skill.
+
+Quarterstaff: A somewhat-large blunt staff used for melee combat, capable of swift strikes but with slower recovery time. Uses spear skill.
+
+Ranseur: A large stabbing polearm. Uses the spear skill.
+
+Rapier: A fast sword with an emphasis on piercing attacks. Uses sword skill.
+
+Sai: A small weapon focusing on stabbing attacks. Uses the dagger skill.
+
+Sap: A very small blunt weapon with fast attacks. Uses the mace skill.
+
+Scythe: A large bladed weapon with slow, but strong, slashing attacks. Uses the pike skill.
+
+Siangham: A small stabbing weapon with fast attacks. Uses the dagger skill.
+
+Sickle: A small curved blade with good slashing attacks. Uses sword skill.
+
+Sling: A small ranged weapon that utilizes sling bullets as ammo. Uses blowgun skill for ranged attacks and striker skill for melee attacks.
+
+Spiked Chain: A large edged weapon that focuses on slashing attacks, but has bad multiattack potential. Uses whip skill.
+
+Spiked Gauntlets: These spike-covered gauntlets are exclusively weapons and won't actually act as armour. They have fast piercing attacks and are always a two-handed weapon. They use the striking skill.
+
+Striking Gauntlets: These tough gauntlets are exclusively weapons and won't actually act as armour. They have fast blunt attacks and are always a two-handed weapon. They use the striking skill.
+
+Throwing Glove: A weapon that can be held with only a single hand, it allows for ranged attacks with dedicated throwing weapons. Uses throwing skill for ranged attacks and striker skill for melee attacks. Ammo is listed below:
+
+	Bolas: A group of spheres bound together, used as a thrown weapon.
+	
+	Dart: A simple throwing dart.
+
+	Javelin: A dedicated throwing spear.
+	
+	Shuriken: Small dedicated throwing weapons that slash their targets.
+	
+	Throwing Dagger: A simple dagger balanced for throwing.
+	
+	Throwing Handaxe: A small axe balanced for throwing.
+	
+	Throwing Light Hammer: A small hammer balanced for throwing.
+	
+Trident: A balanced polearm that trades a bigger penetration area for greater strength. Uses spear skill.
+
+Two-Bladed Sword: A large, powerful weapon with strong, but slow attacks. Uses sword skill.
+
+Urgrosh: A weapon that combines both a large axe and a spear, allowing for both hacking and stabbing attracks. Uses axe skill.
+
+War Pick: This pickaxe has been crafted specifically for combat rather than work. Uses hammer skill.

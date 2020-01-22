@@ -1,0 +1,13 @@
+--------------------
+  MEGABEAST FIENDS
+--------------------
+
+Note: All fiends take double damage from Cold Iron.
+
+Balor: One of the greatest non-unique demons, the balor is a massive and powerful combatant who can augment his strength with mobility in the form of flight. Balors are immune to fire or magma, and also immune to electrical damage. They can equip any weapons they come across and their high body temperature can cause burns in those they grapple with. Balors also have an innate fire aura that causes small, but mounting, ammounts of damage in creatures adjacent to one. When killed, the Balor explodes in a fiery blast. Balors are megabeasts who can be found in shrines.
+
+Goristro: These massive demons resemble towering fiendish minotaurs. While intelligent, they are usually found as prized pets and living siege weapons by the Lords of the Abyss. Goristros are very strong, but do not possess any special abilities. They are semimegabeast and found in labyrinths.
+
+Marilith: These large demons possess the lower half of a serpent and the upper half of a six-armed humanoid woman. They are very skilled at combat and possess great attributes, but don't have any special abilities. Mariliths are semimegabeasts that can be found in shrines.
+
+Pit Fiend: Below only the Archdevils themselves, Pit Fiends are the great generals and nobles of the Hells. They are powerful and massive and can fly in order to better position themselves. They are immune to fire or magma. They have an innate fear aura that terrifies and intimidates all those around it. They can also throw fireballs and jets of fire, slow down non-intelligent creatures and possess a poisonous bite that causes both necrosis and prevents any form of healing. Some come pre-equipped with maces. Pit Fiends are megabeasts who can be found in shrines.

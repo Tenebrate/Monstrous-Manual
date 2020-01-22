@@ -1,0 +1,60 @@
+Corrected civilized Aarakocra plural.
+Corrected Yochlol adjective.
+Added Barbed Devil creature.
+Added Bearded Devil creature.
+Added Bone Devil creature.
+Added Chain Devil creature.
+Added Erinyes creature.
+Added Horned Devil creature.
+Added Ice Devil creature.
+Added Imp creature.
+Added Lemure creature.
+Added Pit Fiend megabeast.
+Added Spined Devil creature.
+Added Baatezu civilization.
+Tanar'ri civ is no longer a snatcher + thief. Instead they have lost CAN_SPEAK which should make them hostile to all.
+All fiends can now spawn in very large numbers in the Underworld. This will probably make the map's bottom easier, but also more flavourful.
+Improved many entities by tweaking ethics values and by setting up proper positions.
+The Bugbear/Half-Orc entity can now start in, and settle, many more biomes. Is now both ambusher and sieger. Removed skulking. Are only active in Autumn now. Have proper values and positions. Can now produce mercenaries. Other minor changes.
+The Bullywug entity will now only usually spread to areas with lots of freshwater, meaning wetlands, rivers and lakes. Tweaked their values. Other minor changes.
+The item-thief variant of the Tiefling entity now builds dark fortresses. Is now ambusher and sieger. Starting biomes now Any Wetland, Any Desert, Tundra. Can also settle on Any Grassland, Any Savanna, Any Shrubland, Any Forest (incl. Taiga). Can make steel. No longer builds castles. Other minor changes.
+Drow entity now has proper positions and can make steel.
+Made a layer-linked entity for bugbears.
+Centaurs now no longer roam about and have their own entity.
+Cyclopes now have physical stats and personalities.
+Cyclopes can now also be found as part of a civilization as well as in the wild.
+Added diplomats to all entities, so that you can kill them and trigger wars. Also end them.
+Various projectile interaction materials should now go away over time.
+Fallen Angels are now immune to psychic effects.
+Added an interaction that allows undead to be revived. Only the Death Tyrant had an animation interaction, so only it gets this new ability.
+Flying Swords, Beholders, Spectators, Death Tyrants, Flumphs, Banshees and Demiliches now are TRAPAVOID.
+Added the Double Axe weapon.
+Added the Bolas ammo for the Throwing Glove.
+Added the Spiked Chain weapon.
+Added the Hand Crossbow weapon.
+Added the Heavy Crossbow weapon.
+Added the Punching Dagger weapon.
+Added the Falchion weapon.
+Added the Dire Flail weapon.
+Added the Heavy Flail weapon.
+Fixed Throwing Glove plural.
+Added the Striking Gauntlets weapon.
+Added the Spiked Gauntlets weapon.
+Added the Guisarme weapon.
+Added the Hooked Hammer weapon.
+Added the Kama weapon.
+Added the Kukri weapon.
+Added the Longbow weapon.
+Added the Composite Longbow weapon.
+Added the Longspear weapon.
+Added the Nunchaku weapon.
+Added the Ranseur weapon.
+Added the Sai weapon.
+Added the Sap weapon.
+Added the Scythe weapon.
+Added the Composite Bow weapon.
+Added the Shuriken ammo.
+Added the Siangham weapon.
+Added the Bastard Sword weapon.
+Added the Two-Bladed Sword weapon.
+Added the Urgrosh weapon.

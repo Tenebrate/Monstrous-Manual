@@ -1,0 +1,9 @@
+-------------------------
+  SUBTERRANEAN ENTITIES
+-------------------------
+
+NOTE: Unless pointed otherwise, all creatures here have the Humanoid type of creature.
+
+Bugbear: Bugbears are brutish human-sized goblinoids that can be found underground. They can launch ambushes.
+
+Drider: Created when a drow fails a trial set by Lolth the Spider Queen, they are transformed by the angered godess into a monstrous fusion of drow and giant spider as a living reminder of Lolth's power and displeasure to the rest of the drow. They can freely walk on walls, ignore webs and have a poisonous bite. They can launch ambushes.

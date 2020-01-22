@@ -1,0 +1,189 @@
+Added the following dinosaurs from the Primal mod: Allosaurus, Ankylosaurus, Plesiosaurus, Pteranodon, Triceratops, Tyrannosaurus Rex. Thanks Enemy Post!
+Removed secrets temporarily to rework them.
+Added Air Elemental creature.
+Added Earth Elemental creature.
+Added Fire Elemental creature.
+Added Water Elemental creature.
+!!!!Added Empyrean creature.
+!!!!Added Fallen Empyrean megabeast.
+!!!!Added Ettercap creature.
+!!!!Added Ettin creature.
+!!!!Added Faerie Dragon creature.
+!!!!Added Flameskull creature.
+!!!!Added Fomorian creature.
+!!!!Added Fomorian civilization.
+!!!!Added Gas Spore creature.
+!!!!Added Shrieker creature.
+!!!!Added Violet Fungus creature.
+!!!!Added Galeb Duhr creature.
+!!!!Added Gargoyle creature.
+!!!!Added Dao creature.
+!!!!Added Djinn creature.
+!!!!Added Efreet creature.
+!!!!Added Marid creature.
+!!!!Added Ghost creature.
+!!!!Added Ghoul creature.
+!!!!Added Cloud Giant creature.
+!!!!Added Fire Giant civilization.
+!!!!Added Frost Giant civilization.
+!!!!Added Hill Giant creature.
+!!!!Added Stone Giant creature.
+!!!!Added Storm Giant creature.
+!!!!Split Cyclopes into their own civilization again.
+!!!!Added Githyanki civilization.
+!!!!Added Githzerai civilization.
+!!!!Added Gnoll civilization.
+!!!!Added Svirfneblin civilization.
+!!!!Added Goblin civilization.
+!!!!Added Clay Golem creature.
+!!!!Added Flesh Golem creature.
+!!!!Added Iron Golem creature.
+!!!!Added Stone Golem creature.
+!!!!Added Gorgon creature.
+!!!!Added Grell creature.
+!!!!Added Grick creature.
+!!!!Added Griffon creature.
+!!!!Added Grimlock creature.
+!!!!Added Grimlock civilization.
+!!!!Added Green Hag creature.
+!!!!Added Night Hag creature.
+!!!!Added Sea Hag creature.
+!!!!Added Hag civilization.
+!!!!Added Half-Dragon civilization.
+!!!!Added Harpy creature.
+!!!!Added Hell Hound creature.
+!!!!Added Helmed Horror creature.
+!!!!Added Hippogriff creature.
+!!!!Added Hobgoblin creature.
+!!!!Added Homunculus creature.
+!!!!Added Hook Horror creature.
+!!!!Added Hydra megabeast.
+!!!!Added Intellect Devourer creature.
+!!!!Added Invisible Stalker creature.
+!!!!Added Jackalwere creature.
+!!!!Added Kenku civilization.
+!!!!Added Kobold civilization.
+!!!!Added Kraken creature.
+!!!!Added Kuo-Toa creature.
+!!!!Added Kuo-Toa civilization.
+!!!!Added Lamia creature.
+!!!!Added Lich semimegabeast.
+!!!!Added Lizardfolk civilization.
+!!!!Added Werebear creature.
+!!!!Added Werebear curse.
+!!!!Added Wereboar creature.
+!!!!Added Wereboar curse.
+!!!!Added Wererat creature.
+!!!!Added Wererat curse.
+!!!!Added Weretiger creature.
+!!!!Added Weretiger curse.
+!!!!Added Werewolf creature.
+!!!!Added Werewolf curse.
+!!!!Added Magmin creature.
+!!!!Added Manticore creature.
+!!!!Added Medusa creature.
+!!!!Added Dust Mephit creature.
+!!!!Added Ice Mephit creature.
+!!!!Added Magma Mephit creature.
+!!!!Added Mud Mephit creature.
+!!!!Added Smoke Mephit creature.
+!!!!Added Steam Mephit creature.
+!!!!Added Merfolk creature.
+!!!!Added Merrow creature.
+!!!!Added Mimic creature.
+!!!!Added Mind Flayer civilization.
+!!!!Added Mind Flayer Arcanist creature.
+!!!!Added Minotaur creature.
+!!!!Added Minotaur civilization.
+!!!!Added Modron creature.
+!!!!Added Mummy creature.
+!!!!Added Myconid creature.
+!!!!Added Myconid civilization.
+!!!!Added Bone Naga creature.
+!!!!Added Guardian Naga creature.
+!!!!Added Spirit Naga creature.
+!!!!Added Nightmare creature.
+!!!!Added Nothic creature.
+!!!!Added Ogre civilization.
+!!!!Added Half-Ogre civilization.
+!!!!Added Oni civilization.
+!!!!Added Black Pudding creature.
+!!!!Added Gelatinous Cube creature.
+!!!!Added Gray Ooze creature.
+!!!!Added Ochre Jelly creature.
+!!!!Added Orc civilization.
+!!!!Split Half-Orcs from the goblinoid entity and into the orc entity.
+!!!!Added Orog civilization.
+!!!!Added Otyugh creature.
+!!!!Added Owlbear creature.
+!!!!Added Pegasus creature.
+!!!!Added Peryton creature.
+!!!!Added Pixie vermin.
+!!!!Added Pseudodragon creature.
+!!!!Added Purple Worm creature.
+!!!!Added Purple Worm semimegabeast.
+!!!!Added Quaggoth creature.
+!!!!Added Rakshasa creature.
+!!!!Added Rakshasa civilization.
+!!!!Added Remorhaz creature.
+!!!!Added Revenant creature.
+!!!!Added Roc semimegabeast.
+!!!!Added Roper creature.
+!!!!Added Rust Monster creature.
+!!!!Added Sahuagin civilization.
+!!!!Added Salamander creature.
+!!!!Added Fire Snake creature.
+!!!!Added Satyr creature.
+!!!!Added Scarecrow creature.
+!!!!Added Shadow creature.
+!!!!Added Shambling Mound creature.
+!!!!Added Shield Guardian creature.
+!!!!Added Skeleton creature.
+!!!!Added Slaad creature.
+!!!!Added Slaad civilization.
+!!!!Added Specter creature.
+!!!!Added Androsphinx creature.
+!!!!Added Gynosphinx creature.
+!!!!Added Sprite vermin.
+!!!!Added Stirge vermin.
+!!!!Added Stirge Swarm creature.
+!!!!Added Tarrasque megabeast.
+!!!!Added Thri-Kreen civilization.
+!!!!Added Treant creature.
+!!!!Added Troglodyte creature.
+!!!!Added Troglodyte civilization.
+!!!!Added Troll creature.
+!!!!Added Umber Hulk creature.
+!!!!Added Unicorn creature.
+!!!!Added Vampire civilization.
+!!!!Added Vampire Spawn creature.
+!!!!Added Water Weird creature.
+!!!!Added Wight creature.
+!!!!Added Will-o'-Wisp creature.
+!!!!Added Wraith creature.
+!!!!Added Wyvern creature.
+!!!!Added Xorn creature.
+!!!!Added Yeti creature.
+!!!!Added Abominable Yeti creature.
+!!!!Added Yuan-ti civilization.
+!!!!Added Arcanaloth creature.
+!!!!Added Mezzoloth creature.
+!!!!Added Nycaloth creature.
+!!!!Added Ultroloth creature. 
+!!!!Added Yugoloth civilization.
+!!!!Added Zombie creature.
+!!!!Added Beholder Zombie creature.
+!!!!Added Awakened Shrub creature.
+!!!!Added Awakened Tree creature.
+!!!!Added Axe Beak creature.
+!!!!Added Blink Dog creature.
+!!!!Added Blood Hawk creature.
+!!!!Added Death Dog creature.
+!!!!Added Flying Snake creature.
+!!!!Added Giant Fire Beetle creature.
+!!!!Added Mammoth creature.
+!!!!Added Mastiff creature.
+!!!!Added Phase Spider creature.
+!!!!Added Saber-Toothed Tiger creature.
+!!!!Added Winter Wolf creature.
+!!!!Added Worg creature.

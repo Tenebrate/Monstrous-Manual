@@ -1,0 +1,15 @@
+Fixed an oversight that caused female flumphs to have no colours.
+Increased size of dire animals.
+Increased population numbers across all creatures.
+Added Behir creature.
+Added Blight creature.
+Added Bugbear creature and civilization.
+Added Berserker Barbarian secret.
+Added Bear-Totem Barbarian secret.
+Added Eagle-Totem Barbarian secret.
+Added Wolf-Totem Barbarian secret.
+Added Bulette creature.
+Added Dire Bulette creature.
+Added Bullywug creature.
+Added POWER to Fallen Angels.
+Added Cambion creature.

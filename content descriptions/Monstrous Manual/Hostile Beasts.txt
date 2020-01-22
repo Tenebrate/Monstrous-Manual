@@ -1,0 +1,7 @@
+------------------
+  HOSTILE BEASTS
+------------------
+
+Allosaurus: This deadly dinosaur is a pack hunter and can be found in savage wetlands, savannas and tropical shrublands. They are exotic pets and mounts.
+
+Plesiosaurus: These marine predators have flippers in place of legs and have extremely long necks. They are, however, completely immobile on land. They can be found in savage oceans.

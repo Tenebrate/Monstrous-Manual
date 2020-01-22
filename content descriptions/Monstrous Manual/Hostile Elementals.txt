@@ -1,0 +1,11 @@
+---------------------
+  HOSTILE ELEMENTALS
+---------------------
+
+Air Elemental: These creatures of elemental air resembling vaguely-humanoid funnelling clouds can be found occasionally on mountains. They can very rarely appear as pets.
+
+Earth Elemental: These creatures of elemental earth resembling vaguely-humanoid boulders can be found occasionally underground. They can destroy any type of building. They can very rarely appear as pets.
+
+Fire Elemental: These creatures of elemental fire resembling vaguely-humanoid spouts of fire can be found occasionally in deserts. They constantly release heat and set all around them on fire. They can very rarely appear as pets, though pet variants lack the immolation property.
+
+Water Elemental: These creatures of elemental water resembling vaguely-humanoid cresting waves can be found occasionally in oceans, lakes and rivers. They can very rarely appear as pets.

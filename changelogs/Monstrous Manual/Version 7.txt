@@ -1,0 +1,28 @@
+Added some support for my stuff to work with ZM5's mods.
+Nerfed the Beholder charm ray.
+Nerfed the Beholder fear ray.
+Nerfed the Cloaker fear effect.
+Nerfed the generic fear effect used for a bunch of stuff.
+Nerfed the Dark Delirium effect.
+Made so that all non-intelligent creatures will always be willing to breed.
+Shadow Dracoliches were incorrecty tagged as megabeasts, corrected.
+Bronze, Gold and Red Dracoliches should now be properly fireimmune.
+Drow are now properly nocturnal.
+Doppelgangers can now be used as adventurers.
+Added the Shadow Dragon creature.
+Added the Black Dragon megabeast.
+Added the Blue Dragon megabeast.
+Added the Green Dragon megabeast.
+Added the Red Dragon megabeast.
+Added the White Dragon megabeast.
+Added the Brass Dragon creature.
+Added the Bronze Dragon creature.
+Added the Copper Dragon creature.
+Added the Gold Dragon creature.
+Added the Silver Dragon creature.
+Added the Dragon Turtle creature.
+Added the Drider civilization.
+Added the Drider creature.
+Drow now can have driders as pets.
+Added the Dryad creature.
+Added the Duergar civilization.

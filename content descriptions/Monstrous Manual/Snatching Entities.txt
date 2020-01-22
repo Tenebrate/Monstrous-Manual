@@ -1,0 +1,9 @@
+--------------------------
+  BABYSNATCHING ENTITIES
+--------------------------
+
+NOTE: Unless pointed otherwise, all creatures here have the Humanoid type of creature.
+
+Drow: Lithe and seemingly timeless, drow, like most other elves, are an insular people that are often seen as aloof and arrogant. Drow are cruel and ruthless, having been forced underground in ancient times by other elves. As such they are resentful and constantly plot vengeance on their surface kin. Drow learn sword and crossbow skills faster than normal, are cave-adapting, can use a Darkness spell that reduces skill rolls on the target, have higher social awareness compared to other elves, and are slightly smaller. Drow build fortresses and start on mountains, but can spread anywhere. They always have access to Yochlols, Giant Cave Spiders and Driders.
+
+Duergar: Duergar, or gray dwarves, are dour and grim relatives of the dwarves who dwell deep within the earth. Once upon a time regular dwarves, they've been twisted by generations of slavery to illithids. Duergar are cruel and dour, but are also more resistant to stress. They have two innate spells: Enlarge and Invisibility, which, respectively, doubles their size for a short while, and allows them to escape dangerous situations. Duergar build fortresses on mountains.

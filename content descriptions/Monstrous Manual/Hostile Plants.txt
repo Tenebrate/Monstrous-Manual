@@ -1,0 +1,11 @@
+------------------
+  HOSTILE PLANTS
+------------------
+
+Blights: These humanoid plant monster that can be found in any evil forest. While intelligent, but also hostile. They have three castes:
+
+	Needle: Needle Blights are the tallest of them and capable of shooting wooden projectiles at enemies.
+	
+	Twig: Twig Blights are the smallest of the blights and notable only for their sneaking skill.
+	
+	Vine: Vine Blights are human-sized and slow. However, they are sneaky and can slow down enemies.

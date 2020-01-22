@@ -1,0 +1,92 @@
+Added Carrion Crawler creature.
+Added Dire Carrion Crawler creature.
+Fixed Behirs not having legendary climbing skill.
+Beholders can now very rarely appear in cold surface biomes.
+Chuuls can now also appear on saltwater wetlands.
+Added Centaur creature.
+Added Chimera creature.
+Added Cockatrice creature.
+Regular Angels are now benign
+Reduced Healing Touch healing and cooldown.
+Added Couatl creature.
+Added Cyclops creature.
+Added Darkmantle creature.
+Death Tyrants can no longer be butchered.
+Innate discipline has been given to various intelligent creatures to prevent problems.
+Added Death Knight creature.
+Added a civilized version of the Aarakocras.
+"Wild" Aarakocras can't be played as an outsider anymore (this was shifted to the civilized version)
+Added a civilized version of Bullywugs.
+"Wild" Bullywugs can't be played as an outsider anymore for the same reasons as Aarakocras.
+Based on finding on the forums, the severities of various interaction-caused syndromes have been boosted.
+Gave Death Tyrants an "inner skull" body part that acts like a brain.
+Fixed many, MANY broken material emission interactions in creatures. Whoops.
+Added Demilich megabeast.
+Fixed the two bugs pointed out in the thread.
+All undead now take extra damage from silver.
+Added Cold Iron mineral and metal.
+Added a verbal requirement to many interactions.
+Added Balor megabeast.
+Added Barlgura creature.
+Couatls can now appear in good deserts and tropical grasslands.
+Cyclops can now appear underground, but rarely.
+Basilisks can now appear in mountains.
+Behirs can now appear underground.
+Added Chasme creature.
+Added Dretch creature.
+Cambions now have black blood.
+Added Glabrezu creature.
+Added Goristro semimegabeast.
+Added Hezrou creature.
+Added Manes creature.
+Angels and Fallen Angels should have feathered wings now.
+Added Marilith semimegabeast.
+Added Crawling Claw vermin.
+Added Quasit creature.
+Banshees no longer have legs.
+Length of Crazed effects reduced.
+Added Shadow Demon creature.
+Added Succubi/Incubi creature.
+Various syndromes and interactions are now tagged with a type of damage, and some creatures are immune to specific types.
+Added Vrock creature.
+Added Yochlol creature.
+Added Tanar'ri civilization.
+Added Hill Dwarf civilization.
+Added Mountain Dwarf civilization.
+Added High Elf civilization.
+Added Wood Elf civilization.
+Aarakocras now are adults at age 3 and die between 30 and 45 years old.
+Added Drow civilization.
+Added Lightfoot Halfling civilization.
+Added Stout Halfling civilization.
+Added Human civilization.
+Changed the Beholder's nullification cone to remove CAN_SPEAK instead of lowering mental attributes.
+Added Dragonborn civilization.
+Switched to using creature variations to thin files.
+Added Forest Gnome civilization.
+Added Rock Gnome civilization.
+Added Half-Elf civilization.
+Added Half-Orc civilization.
+Added item-thief version of the Half-Orc civilization.
+Added Tiefling civilization.
+Added item-thief version of the Tiefling civilization.
+Added Splint Armor armor.
+Added Club weapon.
+Added Greatclub weapon.
+Added Handaxe weapon.
+Added Light Hammer weapon.
+Added Throwing Glove weapon.
+Added Javelin ammunition.
+Added Throwing Dagger ammunition.
+Added Throwing Handaxe ammunition.
+Added Throwing Light Hammer ammunition.
+Added Quarterstaff weapon.
+Added Sickle weapon.
+Added Dart ammunition.
+Added Sling weapon.
+Added Sling Bullet ammunition.
+Added Glaive weapon.
+Added Lance weapon.
+Added Rapier weapon.
+Added Trident weapon.
+Added War Pick weapon.

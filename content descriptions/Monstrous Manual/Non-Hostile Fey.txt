@@ -1,0 +1,5 @@
+-------------------
+  NON-HOSTILE FEY
+-------------------
+
+Dryad: These forest fey appear as women made entirely from wood. They are bound to specific trees, with their health and sanity tied to the health of the tree itself. They can be infrequently found in any forest and are usually friendly. They possess a few innate magical abilities: they can entangle enemies, slowing them; they can make themselves more resistant to damage; and they can charm enemies into becoming crazed for a short while, though at a low chance of it taking effect.

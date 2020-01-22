@@ -1,0 +1,7 @@
+--------------------------
+  NON-HOSTILE CONSTRUCTS
+--------------------------
+
+Animated Armour (pet): A magically-animated suit of iron armour, available as a war-capable pet to any civilization that uses creatures from the Common Domestic pool. When destroyed, they turn into a statue.
+
+Flying Sword (hostile): A magically-animated iron sword capable of flight, available as a war-capable pet to any civilization that uses creatures from the Common Domestic pool. When destroyed, they turn into a long sword.

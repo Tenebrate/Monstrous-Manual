@@ -1,0 +1,11 @@
+----------------------
+  HOSTILE CELESTIALS
+----------------------
+
+Fallen Angel: With the appearance winged humanoids, they have three different castes: the Celestial Deva, the Planetar and the Solar. All fallen angel castes have a Healing Touch that can increase recuperation in other creatures for a time and are at peace with wildlife. Fallen Angels can join civilizations and can be played as adventurers. They can rarely appear in any Evil region.
+
+	Celestial Deva: They do not have any special interactions aside from the healing touch, but have far better stats than a human.
+	
+	Planetar: They are larger than Celestial Devas, have even better stats and can use the Flame Strike (a fireball) and Blade Barrier (damage reduction on self) interactions. 
+	
+	Solar: Is even larger, has excellent stats, and has all of the Planetar's interactions as well as Searing Burst (launches a projectile that deals heavy debuffs to fiends and undead).

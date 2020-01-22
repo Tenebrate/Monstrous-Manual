@@ -1,0 +1,7 @@
+----------------------
+  HOSTILE CONSTRUCTS
+----------------------
+
+Animated Armour (hostile): A magically-animated suit of iron armour, they can be found rarely in any Savage surface biome or any of the cavern layers. Due to their seemingly mundane nature, they lie in ambush before attacking. When destroyed, they turn into a statue.
+
+Flying Sword (hostile): A magically-animated iron sword capable of flight, they can be found rarely in any Savage surface biome or any of the cavern layers. Due to their seemingly mundane nature, they lie in ambush before attacking. When destroyed, they turn into a long sword.

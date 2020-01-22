@@ -1,0 +1,2 @@
+Fixed errors in the Displacer Beast and Doppelganger creatures.
+Fiends previously could appear "rarely" (though it seems they appeared a bit too often) in non-evil surface regions, which has been changed to savage surface regions instead.

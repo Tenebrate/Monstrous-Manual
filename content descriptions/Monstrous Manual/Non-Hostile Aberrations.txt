@@ -1,0 +1,9 @@
+---------------------------
+  NON-HOSTILE ABERRATIONS
+--------------------------
+
+Note: All aberrations take double damage from Byeshk.
+
+Flumph: Looking vaguely like a jellyfish with two goggly eyestalks, flumphs are benevolent inhabitants of the underground, surviving solely on psychic energy. They are not particularly capable in combat, their sole defense being a mild toxin that is applied either through strikes of their tentacles or sprayed in a jet, causing dizziness, nausea and mild necrosis. They can join civilizations.
+
+Spectator: These small beholder-kin have only four eye-stalks as opposed to the standard ten, and are quite friendly and gregarious as long as they are not threatened. They lack the cone interaction of their larger kin and their eye beams have different effects: causing erratic behaviour, paralysis, causing fear, localized necrosis. They can join civilizations. Found in all caverns.

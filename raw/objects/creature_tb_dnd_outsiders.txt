@@ -1,0 +1,5 @@
+creature_tb_dnd_outsiders
+
+[OBJECT:CREATURE]
+
+So this is kind of a weird category, because it doesn't even exist in some editions. This is for basically any extra-planar creature that can't be called a fiend, celestial or elemental.
