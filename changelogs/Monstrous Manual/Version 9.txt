@@ -157,6 +157,7 @@ Added Fallen Empyrean megabeast.
 !!!!Added Unicorn creature.
 !!!!Added Vampire civilization.
 !!!!Added Vampire Spawn creature.
+!!!!Added Vampire curse.
 !!!!Added Water Weird creature.
 !!!!Added Wight creature.
 !!!!Added Will-o'-Wisp creature.
@@ -266,3 +267,246 @@ Added Fallen Empyrean megabeast.
 !!!!Added Deep Rothé creature.
 !!!!Added Rot Grub vermin.
 !!!!Added Rot Grub Swarm creature.
+!!!!Added Tree Blight caste to Blight creature.
+!!!!Added Mongrelfolk creature.
+!!!!Added Wereraven creature.
+!!!!Added Wereraven curse.
+!!!!Added Amphisbaena creature.
+!!!!Added Assassin Vine creature.
+!!!!Added Drowned creature.
+!!!!Added Giant Coral Snake creature.
+!!!!Added Koalinth civilization.
+!!!!Added Locathah creature.
+!!!!Added Shell Shark creature.
+!!!!Added Skum creature.
+!!!!Added Loxodon civilization.
+!!!!Added Simic Hybrid creature.
+!!!!Added Vedalken civilization.
+!!!!Added Guilds of Ravnica submod with the guilds as civs.
+!!!!Added Flame-Kin creature.
+!!!!Added Erstwhile creature.
+!!!!Added Deadbridge Goliath Beetle creature.
+!!!!Added Piranha Beetle vermin.
+!!!!Added Piranha Beetle Swarm creature.
+!!!!Added Skein Spider creature.
+!!!!Added Fungus Drudge creature.
+!!!!Added Batterboar creature.
+!!!!Added Maaka creature.
+!!!!Added Wind Drake creature.
+!!!!Added Brushstrider creature.
+!!!!Added Ceratok creature.
+!!!!Added Dromad creature.
+!!!!Added Indrik creature.
+!!!!Added Krovod creature.
+!!!!Added Raktusk creature.
+!!!!Added Battle (Boros) Angel creature.
+!!!!Added Deathpact Angel creature.
+!!!!Added Archon of the Triumvirate creature..
+!!!!Added Arclight Phoenix creature.
+!!!!Added Conclave Dryad creature.
+!!!!Added Cackler creature.
+!!!!Added Master of Cruelties creature.
+!!!!Added Sire of Insanity creature.
+!!!!Added Erstwhile Lich semimegabeast.
+!!!!Added Felidar creature.
+!!!!Added Flying Horror creature.
+!!!!Added Shadow Horror creature.
+!!!!Added Skittering Horror creature.
+!!!!Added Indentured Spirit creature.
+!!!!Added Blistercoil Weird creature.
+!!!!Added Fluxcharger creature.
+!!!!Added Galvanice Weird creature.
+!!!!Added Krasis creature.
+!!!!Added Kraul civilization.
+!!!!Added Nightveil Specter creature.
+!!!!Added Gloamwing creature.
+!!!!Added Skyjek Roc creature.
+!!!!Added Skyswimmer creature.
+!!!!Added Servitor Thrull creature.
+!!!!Added Winged Thrull creature.
+!!!!Added Mind Drinker Vampire creature.
+!!!!Added Mind Drinker Vampire curse.
+!!!!Added Wurm creature.
+!!!!Added Wurm semimegabeast.
+!!!!Added Ambush Drake creature.
+!!!!Added Allip creature.
+!!!!Added Astral Dreadnought megabeast.
+!!!!Added Balhannoth creature.
+!!!!Added Berbalang creature.
+!!!!Added Boneclaw creature.
+!!!!Added Cadaver Collector creature.
+!!!!Added Choker creature.
+!!!!Added Bronze Scout creature.
+!!!!Added Iron Cobra creature.
+!!!!Added Oaken Bolter creature.
+!!!!Added Stone Defender creature.
+!!!!Added Corpse Flower creature.
+!!!!Added Deathlock creature.
+!!!!Added Alkilith creature.
+!!!!Added Armanite creature.
+!!!!Added Armanite caste to Tanar'ri civilization.
+!!!!Added Bulezau creature.
+!!!!Added Bulezau caste to Tanar'ri civilization.
+!!!!Added Dybbuk creature.
+!!!!Added Maurezhi creature.
+!!!!Added Maurezhi caste to Tanar'ri civilization.
+!!!!Added Molydeus megabeast.
+!!!!Added Molydeus caste to Tanar'ri civilization.
+!!!!Added Nabassu creature.
+!!!!Added Nabassu caste to Tanar'ri civilization.
+!!!!Added Rutterkin creature.
+!!!!Added Rutterkin caste to Tanar'ri civilization.
+!!!!Added Abyssal Wretch creature.
+!!!!Added Sibriex creature.
+!!!!Added Wastrilith creature.
+!!!!Added Wastrilith caste to Tanar'ri civilization.
+!!!!Added Avatar of Baphomet megabeast.
+!!!!Added Avatar of Baphomet caste to Tanar'ri civilization.
+!!!!Added Avatar of Demogorgon megabeast.
+!!!!Added Avatar of Demogorgon caste to Tanar'ri civilization.
+!!!!Added Avatar of Fraz-Urb'luu megabeast.
+!!!!Added Avatar of Fraz-Urb'luu caste to Tanar'ri civilization.
+!!!!Added Avatar of Graz'zt megabeast.
+!!!!Added Avatar of Graz'zt caste to Tanar'ri civilization.
+!!!!Added Avatar of Jubilex megabeast.
+!!!!Added Avatar of Jubilex caste to Tanar'ri civilization.
+!!!!Added Avatar of Orcus megabeast.
+!!!!Added Avatar of Orcus caste to Tanar'ri civilization.
+!!!!Added Avatar of Yeenoghu megabeast.
+!!!!Added Avatar of Yeenoghu caste to Tanar'ri civilization.
+!!!!Added Avatar of Zuggtmoy megabeast.
+!!!!Added Avatar of Zuggtmoy caste to Tanar'ri civilization.
+!!!!Added Derro civilization.
+!!!!Added Black Abishai creature.
+!!!!Added Blue Abishai creature.
+!!!!Added Green Abishai creature.
+!!!!Added Red Abishai creature.
+!!!!Added White Abishai creature.
+!!!!Added Abishai civilization.
+!!!!Added Amnizu creature.
+!!!!Added Amnizu caste to Baatezu civilization.
+!!!!Added Hellfire Engine semimegabeast.
+!!!!Added Merregon creature.
+!!!!Added Merregon caste to Baatezu civilization.
+!!!!Added Narzugon creature.
+!!!!Added Narzugon caste to Baatezu civilization.
+!!!!Added Npperibo creature.
+!!!!Added Npperibo caste to Baatezu civilization.
+!!!!Added Orthon creature.
+!!!!Added Orthon caste to Baatezu civilization.
+!!!!Added Avatar of Bael megabeast.
+!!!!Added Avatar of Bael caste to Baatezu civilization.
+!!!!Added Avatar of Geryon megabeast.
+!!!!Added Avatar of Geryon caste to Baatezu civilization.
+!!!!Added Avatar of Hutijin megabeast.
+!!!!Added Avatar of Hutijin caste to Baatezu civilization.
+!!!!Added Avatar of Moloch megabeast.
+!!!!Added Avatar of Moloch caste to Baatezu civilization.
+!!!!Added Avatar of Titivilus megabeast.
+!!!!Added Avatar of Titivilus caste to Baatezu civilization.
+!!!!Added Avatar of Zariel megabeast.
+!!!!Added Avatar of Zariel caste to Baatezu civilization.
+!!!!Added Sacred Eidolon creature.
+!!!!Added Fey Eladrin creature.
+!!!!Added Fey Eladrin civilization.
+!!!!Added Leviathan megabeast.
+!!!!Added Phoenix megabeast.
+!!!!Added Elder Tempest megabeast.
+!!!!Added Zaratan megabeast.
+!!!!Added Air Elemental Myrmidon creature.
+!!!!Added Earth Elemental Myrmidon creature.
+!!!!Added Fire Elemental Myrmidon creature.
+!!!!Added Water Elemental Myrmidon creature.
+!!!!Added Giff civilization.
+!!!!Added Gray Render creature.
+!!!!Added Howler creature.
+!!!!Added Kruthik creature.
+!!!!Added Marut creature.
+!!!!Added Meazel creature.
+!!!!Added Nagpa semimegabeast.
+!!!!Added Nightwalker megabeast.
+!!!!Added Oblex creature.
+!!!!Added Retriever creature.
+!!!!Added Frost Salamander creature.
+!!!!Added Shadar-Kai civilization.
+!!!!Added Skulk creature.
+!!!!Added Skull Lord semimegabeast.
+!!!!Added Angry Sorrowsworn creature.
+!!!!Added Hungry Sorrowsworn creature.
+!!!!Added Lonely Sorrowsworn creature.
+!!!!Added Lost Sorrowsworn creature.
+!!!!Added Wretched Sorrowsworn creature.
+!!!!Added Star Spawn Grue creature.
+!!!!Added Star Spawn Hulk creature.
+!!!!Added Star Spawn Larva Mage semimegabeast.
+!!!!Added Star Spawn Magnler creature.
+!!!!Added Star Spawn Seer creature.
+!!!!Added Steeder creature.
+!!!!Added Steel Predator creature.
+!!!!Added Stone Cursed creature.
+!!!!Added Sword Wraith creature.
+!!!!Added Tortle civilization.
+!!!!Added Dire Troll creature.
+!!!!Added Rot Troll creature.
+!!!!Added Spirit Troll creature.
+!!!!Added Venom Troll creature
+!!!!Added Vampiric Mist creature.
+!!!!Added Cannoloth creature.
+!!!!Added Cannoloth caste to Yugoloth civ (reminder).
+!!!!Added Dhergoloth creature.
+!!!!Added Dhergoloth caste to Yugoloth civ (reminder).
+!!!!Added Hydroloth creature.
+!!!!Added Hydroloth caste to Yugoloth civ (reminder).
+!!!!Added Merrenoloth creature.
+!!!!Added Merrenoloth caste to Yugoloth civ (reminder).
+!!!!Added Oinoloth creature.
+!!!!Added Oinoloth caste to Yugoloth civ (reminder).
+!!!!Added Yagnoloth creature.
+!!!!Added Yagnoloth caste to Yugoloth civ (reminder).
+!!!!Added Ixitxachitl creature.
+!!!!Added Aven civilization.
+!!!!Added Khenra civilization.
+!!!!Added Criosphinx creature.
+!!!!Added Angler Drake creature.
+!!!!Added Sandwurm megabeast.
+!!!!Added Heart-Piercer Manticore creature.
+!!!!Added Siren creature.
+!!!!Added Serpopard creature.
+!!!!Added Cerodon creature.
+!!!!Added Geist creature.
+!!!!Added Creepy Doll vermin.
+!!!!Added Alabaster Angel creature.
+!!!!Added Heron Angel creature.
+!!!!Added Goldnight Angel creature.
+!!!!Added Moonsilver Angel creature.
+!!!!Added Frilled Deathspitter creature.
+!!!!Added Suns's Avatar semimegabeast.
+!!!!Added Primal Dawn megabeast.
+!!!!Added Primal Tide megabeast.
+!!!!Added Primal Storm megabeast.
+!!!!Added Primal Death megabeast.
+!!!!Added Primal Hunger megabeast.
+!!!!Added Primal Calamity megabeast.
+!!!!Added Sunbird semimegabeast.
+!!!!Added Chupacabra creature.
+!!!!Added Aetherborn creature.
+!!!!Added Gremlin creature.
+!!!!Added Sky Leviathan creature.
+!!!!Added Servo creature.
+!!!!Added Kor civilization.
+!!!!Added Archon of Redemption creature.
+!!!!Added Kraken Giant creature.
+!!!!Added Surrakar creature.
+!!!!Added Gomazoa creature.
+!!!!Added Hurda creature.
+!!!!Added Baloth creature.
+!!!!Added Gnarlid creature.
+!!!!Added Eldrazi submod with Eldrazi civ.
+!!!!Added Ice Toad creature.
+!!!!Added Crag Cat creature.
+!!!!Added Hulking Crab creature.
+!!!!Added Tressym creature.
+!!!!Added Yakfolk civilization.
+!!!!Added Kelpie creature.
+!!!!Added Nereid creature.
+!!!!Added Sea Lion creature.
