@@ -6,8 +6,11 @@ Added Fire Elemental creature.
 Added Water Elemental creature.
 Added Empyrean creature.
 Added Fallen Empyrean megabeast.
-!!!!Added Ettercap creature.
-!!!!Added Ettin creature.
+Aboleths are now covered in dangerous mucus.
+Nearly all intelligent creatures can now pet.
+A lot of fiends can now be adventurers.
+Added Ettercap creature.
+Added Ettin creature.
 !!!!Added Faerie Dragon creature.
 !!!!Added Flameskull creature.
 !!!!Added Fomorian creature.
@@ -510,3 +513,61 @@ Added Fallen Empyrean megabeast.
 !!!!Added Kelpie creature.
 !!!!Added Nereid creature.
 !!!!Added Sea Lion creature.
+!!!!Added Fiendish Flesh Golem creature.
+!!!!Added Hellwasp creature.
+!!!!Added Hollyphant creature.
+!!!!Added Madcap creature.
+!!!!Added Changeling civilization.
+!!!!Added Kalashtar civilization.
+!!!!Added Shifter civilization.
+!!!!Added Warforged creature.
+!!!!Added Warforged civilization.
+!!!!Added Daelkyr megabeast.
+!!!!Added Clawfoot creature.
+!!!!Added Fastieth creature.
+!!!!Added Dolgaunt creature.
+!!!!Added Dolgaunt civilization.
+!!!!Added Dolgrim creature.
+!!!!Added Dolgrim civilization.
+!!!!Added Dusk Hag creature.
+!!!!Added Dusk Hag caste to Hag civ (reminder).
+!!!!Added Expeditious Messenger creature.
+!!!!Added Iron Defender creature.
+!!!!Added Inspired civilization.
+!!!!Added Living Burning Hands creature.
+!!!!Added Living Lightning Bolt creature.
+!!!!Added Living Cloudkill creature.
+!!!!Added Avatar of Rak Tulkhesh megabeast.
+!!!!Added Avatar of Sul Khatesh megabeast.
+!!!!Added Hashalaq Quori creature.
+!!!!Added Kalaraq Quori creature.
+!!!!Added Tsucora Quori creature.
+!!!!Added Radiant Idol semimegabeast.
+!!!!Added Zakya Rakshasa creature.
+!!!!Added Zakya Rakshasa caste to Rakshasa civ (reminder).
+!!!!Added Undying region effect.
+!!!!Added Warforged Colossus megabeast.
+!!!!Added Warforged Titan creature.
+!!!!Added Sakah caste to Tielfing civ.
+!!!!Added Dolurrhi caste to Tielfing civ.
+!!!!Added Fernian caste to Tielfing civ.
+!!!!Added Kythri caste to Tielfing civ.
+!!!!Added Mabari caste to Tielfing civ.
+!!!!Added Risian caste to Tielfing civ.
+!!!!Added Shavaran caste to Tielfing civ.
+!!!!Added Dragonforged creature.
+!!!!Added Dragonforged civilization.
+!!!!Added Dragonmarked caste to Half-Elf civ.
+!!!!Added Dragonmarked caste to Human civ.
+!!!!Added Dragonmarked caste to Half-Orc civ.
+!!!!Added Dragonmarked caste to Hafling civs.
+!!!!Added Dragonmarked caste to Gnome civs.
+!!!!Added Dragonmarked caste to Dwarf civs.
+!!!!Added Dragonmarked caste to Elf civs.
+!!!!Added Aberrant caste to Dwarf civs.
+!!!!Added Aberrant caste to Elf civs.
+!!!!Added Aberrant caste to Gnome civs.
+!!!!Added Aberrant caste to Half-Elf civ.
+!!!!Added Aberrant caste to Halfling civs.
+!!!!Added Aberrant caste to Half-Orc civ.
+!!!!Added Aberrant caste to Human civ.

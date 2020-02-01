@@ -2,7 +2,7 @@
   HOSTILE ELEMENTALS
 ---------------------
 
-Air Elemental: These creatures of elemental air resembling vaguely-humanoid funnelling clouds can be found occasionally on mountains. They can very rarely appear as pets.
+Air Elemental: These creatures of elemental air resembling vaguely-humanoid funnelling clouds can be found occasionally on mountains. They can propel enemies away with strong winds. They can very rarely appear as pets.
 
 Earth Elemental: These creatures of elemental earth resembling vaguely-humanoid boulders can be found occasionally underground. They can destroy any type of building. They can very rarely appear as pets.
 

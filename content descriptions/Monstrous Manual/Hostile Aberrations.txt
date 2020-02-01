@@ -4,9 +4,9 @@
 
 Note: All aberrations take double damage from Byeshk.
 
-Aboleth: Large fish-like creatures found rarely in the water of either the second or third cavern layers. Despite their aquatic biome, they are amphibious and can chase victims onto land. They can shoot psychic projectiles or dominate a creature's mind.
+Aboleth: Large fish-like creatures found rarely in the water of either the second or third cavern layers. Despite their aquatic biome, they are amphibious and can chase victims onto land. They can shoot psychic projectiles or dominate a creature's mind. Aboleths are covered in a mucus secretion that deals acid damage to those it touches.
 
-Beholder: Spherical floating monsters notable for their many eyes. From these eyes it can shoot magical rays with the following effects: making creatures crazed, paralysis, causing fear, loss of speed, localized necrosis, blunt trauma, unconsciousness, petrification (chance of instant death, leaves a statue), disintegration (chance of instant death), significant localized necrosis. It also has a short-ranged interaction, the nullifying cone, that can lower the mental stats of nearby creatures. Found infrequently in the second and third caverns, and very rarely in colder biomes on the surface.
+Beholder: Spherical floating monsters notable for their many eyes. From these eyes it can shoot magical rays with the following effects: making creatures crazed, paralysis, causing fear, loss of speed, localized necrosis, telekinetic push, unconsciousness, petrification (chance of instant death, leaves a statue), disintegration (chance of instant death), significant localized necrosis. It also has a short-ranged interaction, the nullifying cone, that can lower the mental stats of nearby creatures. Found infrequently in the second and third caverns, and very rarely in colder biomes on the surface.
 
 Chuul: Large amphibious crustacean monsters found in evil oceans and saltwater wetlands, it can kick, attack with its pincers or attempt to lash out with its facial tentacles. Being hit by those tentacles results in paralysis.
 
