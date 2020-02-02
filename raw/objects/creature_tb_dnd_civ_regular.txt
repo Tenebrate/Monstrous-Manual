@@ -143,7 +143,7 @@ creature_tb_dnd_civ_regular
 		[CDI:ADV_NAME:Summon air elemental]
 		[CDI:USAGE_HINT:DEFEND]
 		[CDI:VERB:summon an air elemental:summons an air elemental:NA]
-		[CDI:WAIT_PERIOD:20000]
+		[CDI:WAIT_PERIOD:36000]
 		[CDI:VERBAL]
 	[BABY:1]
 	[CHILD:3]

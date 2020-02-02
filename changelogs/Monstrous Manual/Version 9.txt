@@ -11,6 +11,8 @@ Nearly all intelligent creatures can now pet.
 A lot of fiends can now be adventurers.
 Added Ettercap creature.
 Added Ettin creature.
+Aarakocras can now summon air elementals.
+Cloakers can now summon illusory phantasms.
 !!!!Added Faerie Dragon creature.
 !!!!Added Flameskull creature.
 !!!!Added Fomorian creature.
@@ -371,8 +373,8 @@ Added Ettin creature.
 !!!!Added Avatar of Fraz-Urb'luu caste to Tanar'ri civilization.
 !!!!Added Avatar of Graz'zt megabeast.
 !!!!Added Avatar of Graz'zt caste to Tanar'ri civilization.
-!!!!Added Avatar of Jubilex megabeast.
-!!!!Added Avatar of Jubilex caste to Tanar'ri civilization.
+!!!!Added Avatar of Juiblex megabeast.
+!!!!Added Avatar of Juiblex caste to Tanar'ri civilization.
 !!!!Added Avatar of Orcus megabeast.
 !!!!Added Avatar of Orcus caste to Tanar'ri civilization.
 !!!!Added Avatar of Yeenoghu megabeast.

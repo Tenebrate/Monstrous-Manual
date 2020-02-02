@@ -2,6 +2,6 @@
   NON-HOSTILE HUMANOIDS
 -------------------------
 
-Aarakocra: Found solely on good mountains, they are bird-like humanoid capable of flight with their wings. They are also more agile than humans, having an easier time avoiding blows. They can join civilizations as citizens and can be selected as adventurers.
+Aarakocra: Found solely on good mountains, they are bird-like humanoid capable of flight with their wings. They are also more agile than humans, having an easier time avoiding blows. They can summon air elementals to aid them in combat. They can join civilizations as citizens and can be selected as adventurers.
 
 Bullywug: Found in any savage wetland, bullywugs are roughly dwarf-sized humanoid frogs. They are amphibious and possess higher than average agility at the cost of willpower. They are not benign and may attack if disturbed. Bullywugs can join civilizations and can be played as adventurers.

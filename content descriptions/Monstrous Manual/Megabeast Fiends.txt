@@ -4,7 +4,7 @@
 
 Note: All fiends take double damage from Cold Iron.
 
-Balor: One of the greatest non-unique demons, the balor is a massive and powerful combatant who can augment his strength with mobility in the form of flight. Balors are immune to fire or magma, and also immune to electrical damage. They can equip any weapons they come across and their high body temperature can cause burns in those they grapple with. Balors also have an innate fire aura that causes small, but mounting, ammounts of damage in creatures adjacent to one. When killed, the Balor explodes in a fiery blast. Balors are megabeasts who can be found in shrines.
+Balor: One of the greatest non-unique demons, the balor is a massive and powerful combatant who can augment his strength with mobility in the form of flight. Balors are immune to fire or magma, and also immune to electrical damage. They can equip any weapons they come across and their high body temperature can cause burns in those they grapple with. Balors also have an innate fire aura that causes small, but mounting, ammounts of damage in creatures adjacent to one and can try to summon 4 vrocks to aid them in battle. When killed, the Balor explodes in a fiery blast. Balors are megabeasts who can be found in shrines.
 
 Goristro: These massive demons resemble towering fiendish minotaurs. While intelligent, they are usually found as prized pets and living siege weapons by the Lords of the Abyss. Goristros are very strong, but do not possess any special abilities. They are semimegabeast and found in labyrinths.
 

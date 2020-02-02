@@ -10,6 +10,6 @@ Beholder: Spherical floating monsters notable for their many eyes. From these ey
 
 Chuul: Large amphibious crustacean monsters found in evil oceans and saltwater wetlands, it can kick, attack with its pincers or attempt to lash out with its facial tentacles. Being hit by those tentacles results in paralysis.
 
-Cloaker: Ambushing flying predators found in all cavern levels. They can produce fear-inducing moans and protect themselves with illusory magics, reducing incoming damage.
+Cloaker: Ambushing flying predators found in all cavern levels. They can produce fear-inducing moans and create three illusory copies of themselves.
 
 Gibbering Mouther: Quivering blobs of meat studded with staring eyes and mouths that constantly scream, gibber and vocalize, found in the upper two caverns. Aside from their biting attacks, they can also spit a blinding substance and constantly, as a free action, gibber at any creature near them. Victims of their gibber suffer from reduced willpower and can either feel fear, act erratically, or both.

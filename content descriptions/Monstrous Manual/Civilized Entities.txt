@@ -4,7 +4,7 @@
 
 NOTE: Unless pointed otherwise, all creatures here have the Humanoid type of creature.
 
-Aarakocra: Aarakocras are bird-like humanoid capable of flight with their wings. They are also more agile than humans, having an easier time avoiding blows. They build cities in good forests.
+Aarakocra: Aarakocras are bird-like humanoid capable of flight with their wings. They are also more agile than humans, having an easier time avoiding blows.  They can summon air elementals to aid them in combat. They build cities in good forests.
 
 Azer: A creature resembling a dwarf made out of brass. They are genderless, but possess innate natural skills at both metal- and gemcrafting. They also provide illumination in the dark, and have a heat aura that they can use in combat. Azers are not Humanoids, having the Elemental type instead. Azers build their fortresses primarily in deserts. Can be played as a fortress.
 
