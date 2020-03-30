@@ -82,7 +82,6 @@ creature_tb_dnd_aberration
 		[PREFIX:NONE]
 		[DISPLAY_COLOR:2:0:0]
 		[EVAPORATES]
-		[HAS_GOO_MAP_DESCRIPTOR]
 		[MELTING_POINT:10000]
 		[BOILING_POINT:10250]
 		[SYNDROME]
@@ -164,6 +163,8 @@ creature_tb_dnd_aberration
 				[TLCM_NOUN:eyes:PLURAL]
 	[SELECT_MATERIAL:ALL]
 		[MULTIPLY_VALUE:5]
+	[SELECT_MATERIAL:MUCUS]
+		[HAS_GOO_MAP_DESCRIPTOR]
 		
 [CREATURE:TB_DND_BEHOLDER]
 	[DESCRIPTION:Agressive, hateful and xenophobic, the Eye Tyrants possess circular bodies dominated by a massive eye and a ragged maw, and are crowned by multiple eyestalks brimming with sorcery.]
