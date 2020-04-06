@@ -4,6 +4,11 @@
 
 NOTE: Unless pointed otherwise, all creatures here have the Humanoid type of creature.
 
-Bugbear: Bugbears are brutish human-sized goblinoids that can be found underground. They can launch ambushes.
+Bugbear: BGoblinoids are brutish humanoids that can be found underground. They can launch ambushes. They possess three castes representing the various types of goblinoid races:
+	Goblin: Goblins are small and weak, though make up for it in numbers and in agility. They are naturally stealthy as well, but lack in strength and other physical attributes.
+	
+	Hobgoblin: Hobgoblins are almost human-sized goblinoids, and actually stronger than your average human. They are also more disciplined than the rest of the goblinoids and live longer.
+	
+	Bugbear: Bugbears are human-sized and quite a bit stronger, while also being quite stealthy and prone to rage. They are far less numerous than their kin, however.
 
 Drider: Created when a drow fails a trial set by Lolth the Spider Queen, they are transformed by the angered godess into a monstrous fusion of drow and giant spider as a living reminder of Lolth's power and displeasure to the rest of the drow. They can freely walk on walls, ignore webs and have a poisonous bite. They can launch ambushes.

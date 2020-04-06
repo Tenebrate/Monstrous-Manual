@@ -1,0 +1,19 @@
+Merged Half-Elves, Half-Orcs and Tieflings into the Human creature.
+Merged Half-Elves into the Elf creatures.
+Merged Half-Elves into the Drow creature as Half-Drow.
+Tieflings now only exist as the "Thiefling" civ, which is now a snatcher civ.
+Half-Elves and Half-Orcs no longer exist as independent civilizations.
+Merged Mountain Dwarves and Hill Dwarves into a single creature with each race being a different caste.
+Merged High Elves and Wood Elves into a single creature with each race being a different caste.
+Merged Rock Gnomes and Forest Gnomes into a single creature with each race being a different caste.
+Merged Lightfoot Halflings and Stout Halflings into a single creature with each race being a different caste.
+Merged Bugbears into a new Goblinoid creature.
+Added Gnoll civilization.
+Added Orc civilization.
+Added Troll creature.
+Added Worg creature.
+Cyclopes are no longer a civilization.
+Tieflings and Cambions can now appear as "minions" for fiendish civilizations.
+Added Half-Dragon caste to the human civilization.
+Tagged humans as playable, but they have no unique mechanics outside of their creatures.
+Added steel-making to a lot of civilizations.

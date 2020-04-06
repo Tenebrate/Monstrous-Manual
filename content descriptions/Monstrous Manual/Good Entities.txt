@@ -1,0 +1,62 @@
+-----------------
+  GOOD ENTITIES
+-----------------
+
+NOTE: Unless pointed otherwise, all creatures here have the Humanoid type of creature.
+
+NOTE 2: Despite the name, it doesn't mean they are [GOOD], just that they're not snatcher, thieves or some other flavour of hostile.
+
+Aarakocra: Aarakocras are bird-like humanoid capable of flight with their wings. They are also more agile than humans, having an easier time avoiding blows.  They can summon air elementals to aid them in combat. They build cities in good forests.
+
+Azer: A creature resembling a dwarf made out of brass. They are genderless, but possess innate natural skills at both metal- and gemcrafting. They also provide illumination in the dark, and have a heat aura that they can use in combat. Azers are not Humanoids, having the Elemental type instead. Azers build their fortresses primarily in deserts. Can be played as a fortress.
+
+Centaur: Appearing as half-horse-half-humanoid intelligent creatures, they learn some skills, mostly those related to the handling of animals or plants faster, but learn most industry skills far slower than normal. Further, due to their body shape, they are unable to climb. They live in forest retreats. 
+
+Dwarf: Short, sturdy creatures fond of drink and industry. Dwarves are, in general, sturdier than humans and learn a few skills, mining, stonework, brewing, and metalwork, slightly faster. They build fortresses in mountainous regions and can be played in fortress mode. They have two different castes representing their subraces:
+	Hill Dwarf: Hill dwarves differ from other dwarven subraces in their increased resilience and intuition.
+	Mountain Dwarf: Mountain dwarves differ from other dwarven subraces in their increased strength and natural aptitude for armour.
+
+Elf: Lithe and seemingly timeless, elves are an insular people that are often seen as aloof and arrogant. Elves build forest retreats in forests. They have three different castes representing their subraces:
+	High Elf: High elves in particular consider themselves the apex of elvenkind, pointing to their keener intellect and connection to magic. They also possess as unique characteristics higher focus, faster learning of sword and bow skills, and can pick one cantrip spell (non-adventurer elves will pick when they first enter combat due to how DF currently works). The cantrips are:
+		Acid Splash: Shoot a glob of weak acid at a target.
+		
+		Blade Ward: Gain very low resistance to damage for a small time.
+		
+		Chill Touch: Causes minor necrosis on target.
+		
+		Fire Bolt: Shoot a weak "fire" projectile.
+		
+		Poison Spray: Shoot poisonous gas at an enemy.
+		
+		Ray of Frost: Shoot a weak projectile of magical frost.
+		
+		Shocking Grasp: Shoot weak lightning at a melee-range target.
+		
+		True Strike: Makes a target slightly more vulnerable to damage.
+	
+	Wood Elf: Wood elves stand out from other elves in that they are better ambushers, have better intuition and move faster.
+	
+	Half-Elf: Having both human and elf ancestors, half-elves have higher than average focus, endurance and social awareness.
+
+Halfling: Small and cheerful, halflings are an easygoing people who value the comforts of home above ambition and greed. All halflings are slightly more agile and have slightly greater willpower than average, but also are not as strong. They build cities in plains and shrublands. They have two different castes representing their subraces:
+	Lightfoot: Lightfoot halflings are naturally sneaky and possess greated social awareness than other halflings.
+	
+	Stout: Stout halflings are slightly bigger, tougher and more resistant to disease.
+
+Human: Varied and hard to generalize, humans are widespread and known for their drive to achieve greatness. They build cities on plains and along rivers  and can be played in fortress mode.. They have multiple castes representing their multiple half-breeds with various races:
+	Human: Humans have very slightly improved values in all attributes compared to the average.
+	
+	Half-Elf: Having both human and elf ancestors, half-elves have higher than average focus, endurance and social awareness.
+	
+	Half-Orc: Having both human and orc ancestors, half-orcs have higher than average strength and toughness and are prone to rage.
+	
+	Tiefling: Possessing fiendish features, the tieflings are a result of an ancient pact between a group of humans a great Archfiend. As such, all their descendants possess fiend-like traits. Appearing as humans with horns, a tail and occasionally unusual skin tones, tieflings possess focus and social awareness greater than the average. Tieflings also possess two innate spells: Darkness, which reduces skill rolls, and Infernal Rebuke, a melee-range fire attack.
+	
+	Half-Dragons: Half-dragons are the offspring of a dragon, usually polymorphed, and a human. This union will sometimes produce offspring that looks very much like an antropomorphic version of their draconic ancestor. Half-dragons like twice as long as regular humans, have increased strenght, toughness, endurance and agility and have a breat weapon based on their scale colour.
+
+Dragonborn: These dragon-like humanoids are, as the name implies, literally born of dragons and indeed resemble a humanoid dragon. They are bigger than humans and possess greater strength and social awareness. Dragonborn have a host of castes based on the most common chromatic and metallic dragons, and have a breath attack based on their respective dragon. Dragonborn are both Humanoids and Dragons. They build cities starting on tropical forests, but can expand to most regions.
+
+Gnome: Short and full of energy, gnomes are avid explorers and inventors, curious about the world and eager to see and learn always. Gnomes in general possess greater focus than most. Gnomes emerge from fortresses and cities in mountains, but can expand to a variety of regions. They have two castes representing their various subraces:
+	Rock Gnome: Rock gnomes are the archetypal gnome, and are both tougher and more inventive than their cousins. This manifests in them gaining experience in mechanics, alchemy and scientific skills (with the exception of geography) faster than normal.
+	
+	Forest Gnome: Forest gnomes are somewhat less adventurous than their cousins, are at peace with wildlife and are more agile then normal.
